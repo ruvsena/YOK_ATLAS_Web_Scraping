@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="boto3" />
+          <option value="a.deep_translator" />
+          <option value="translate_file.yDmH0d" />
+          <option value="time.sleep.until" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
